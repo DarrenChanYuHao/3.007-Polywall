@@ -9,7 +9,9 @@ The project information website can be found here: https://polywall.wordpress.co
 
 This was a ~1.5 months long final submission project.
 
-In this project, I managed to picked up skills such as **CAD modelling** and **inserting it into a virtual environment** using both **unreal and unity engine**.
-I also learnt to use the **basics of wordpress**.
+In this project, I managed to practice and improved the following skills:
+1. **CAD modelling** and **inserting it into a virtual environment** using both **unreal and unity engine**.
+2. **Basics of wordpress**.
+3. **Basic workshop machining**
 
 ![alt text](https://i.imgur.com/7gGijgn.jpg)
