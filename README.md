@@ -6,4 +6,7 @@ My group's solution was a wall that encouraged interaction : Polywall
 
 The project information website can be found here: https://polywall.wordpress.com/
 
+In this project, I managed to picked up skills such as CAD modelling and inserting it into a virtual environment using both unreal and unity engine.
+I also learnt to use the basics of wordpress.
+
 ![alt text](https://i.imgur.com/7gGijgn.jpg)
