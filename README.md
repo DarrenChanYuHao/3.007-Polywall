@@ -11,7 +11,8 @@ This was a ~1.5 months long final submission project.
 
 In this project, I managed to practice the following:
 1. **CAD modelling** and **inserting it into a virtual environment** using both **unreal and unity engine**.
-2. **Basics of wordpress**.
-3. **Basic workshop machining**
+2. **Using Codesandbox to deploy WebGL**
+3. **Basics of wordpress**
+4. **Basic workshop machining**
 
 ![alt text](https://i.imgur.com/7gGijgn.jpg)
